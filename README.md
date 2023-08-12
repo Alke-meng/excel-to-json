@@ -19,7 +19,12 @@
 
 > 结果演示
 
-![image](https://github.com/Alke-meng/excel-to-json/images/1.png)
+![image](https://github.com/Alke-meng/excel-to-json/blob/main/images/1.jpg)
 
-![image](https://github.com/Alke-meng/excel-to-json/images/2.png)
+![image](https://github.com/Alke-meng/excel-to-json/blob/main/images/2.jpg)
+
+> 编译命令：
+> `go build -o aite main.go` 
+> 
+> 可供其他语言调用，如php
 
